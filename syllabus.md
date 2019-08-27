@@ -2,7 +2,7 @@
 
 This course introduces core concepts and techniques of computer programming to prepare students for more advanced topics in manipulation, storage and transmission of digital media. Students will develop an understanding of computer capabilities and the skills required of computer programmers. No previous programming experience is required. 
 
-- CRN: **23445**
+- CRN: **23118**
 - Course: **DMS 102**
 - Credits: **4.0**
 - Lecture Schedule: **Tuesdays and Thursdays, 2:00 PM to 3:15 PM**
@@ -16,11 +16,8 @@ This course introduces core concepts and techniques of computer programming to p
 
 ### Office Hours
 
-**Virtual Office Hours:** for technical help, the professor will be online, answering questions via [Slack](https://dms102.slack.com/), in the **#help** channel.  Students can leave questions at any time.  The professor will answer them Mondays and Thursdays, 9:30 to 10:30 AM
-
-**Regular Office Hours:** for *non-technical help*, the professor will be in his office in Morey 313, Tuesdays and Wednesdays at 9:30 to 10:30 AM.
-
-**Private Office Hours:** when the other office hours aren't possible, send email to [robert.kostin@rochester.edu](mailto:robert.kostin@rochester.edu) to schedule an appointment
+- **Virtual Office Hours:** for technical help, the professor will be online, answering questions via [Slack](https://dms-102.slack.com/), in the **#help** channel.  Students can leave questions at any time.  The professor and other students will answer as quickly as possible
+- **Regular Office Hours:** for *non-technical help*, the professor will be in his office in Morey 313, Tuesdays and Wednesdays between 9:30 and 10:30 AM.
 
 ## Grading
 For each assignment, a grading rubric is provided. Rubrics will inform students how assignments are evaluated. 
@@ -44,9 +41,9 @@ For each assignment, a grading rubric is provided. Rubrics will inform students 
 
 | Activity                                                     | Weight of the final grade                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Participation**<br>There are multiple participation events at various times during the semester at the discretion of the instructor.<br>- Students are called by name during classes to answer questions based on previous exercises and readings<br>- In-class exercises are checked for completion<br>- In-class quizzes (few questions, limited time) every so often | **30%**<br> Each participation event counts equally toward the total of 30%.  There will be between 10 and 15 participation events.  Nonattendance at a classroom session during a participation event will result in a zero for that event. |
+| **Participation**<br>There are multiple participation events at various times during the semester at the discretion of the instructor.<br>- In-class exercises are checked for completion<br>- In-class quizzes (few questions, limited time) every so often | **30%**<br> Each participation event counts equally toward the total of 30%.  There will be between 10 and 15 participation events.  Nonattendance at a classroom session during a participation event will result in a zero for that event. |
 | **Lab Assignments**<br> There is lab work to be turned-in on Blackboard usually every week at the discretion of the instructor.  Each lab counts equally toward the total of 40%.  There are between 10 and 15 lab assignments. | **40%**<br> Each lab assignment is worth 3.0 to 4.5% of the overall grade depending on how many there are |
-| **Exams**<br> There is a midterm and a final exam, both worth 15% of the final grade.  The final exam is not comprehensive, but given the nature of the topic, it is important to know the course material from the first half of the semester. | **30%**<br>Midterm exam: 15%<br>Final exam: 15%              |
+| **Exams**<br>There is a midterm and a final exam, both worth 15% of the final grade.  The final exam is not comprehensive, but given the nature of the topic, it is important to know the course material from the first half of the semester. | **30%**<br>Midterm exam: 15%<br>Final exam: 15%              |
 
 # Lab Assignments and In-class Exercises
 
@@ -96,11 +93,11 @@ The professor will use **Slack** to make course‑related announcements and to d
 
 Students may also use Slack to ask questions and get help from the professor.
 
-- Sign-up for access to the CSC 170 Slack Workspace here: [join.slack.com/t/dms102/signup](https://join.slack.com/t/dms102/signup)
+- Sign-up for access to the CSC 170 Slack Workspace here: [join.slack.com/t/dms-102/signup](https://join.slack.com/t/dms-102/signup)
 
   - Students must use their **rochester.edu** email when signing-up for access
 
-- After the student has created their account, they can access the *CSC 170 Slack Workspace* here: [dms102.slack.com](https://dms102.slack.com/) 
+- After the student has created their account, they can access the *CSC 170 Slack Workspace* here: [dms-102.slack.com](https://dms-102.slack.com/) 
 
   - Consider bookmarking that address
   - For faster access, consider installing the Slack application for Windows, Mac, iOS, or Android
