@@ -12,7 +12,7 @@ Programming for Digital media
 ### Week 2
 
 - **Lecture**
-  - [Lecture 2 - Introduction to Computer Science and Media Computation, part 2]()
+  - [Lecture 2 - Introduction to Computer Science and Media Computation, part 2](02-introduction-computer-science-2/introduction-computer-science2.pdf)
 - **In-class work**
   - Install/try JES with media files (do part 1A of [Lab 1: Saving Programs in JES](lab01-saving-programs-jes/instructions.md))
 - **Assignment (homework for next time)**
