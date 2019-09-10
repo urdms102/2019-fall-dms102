@@ -60,5 +60,5 @@ Edit the **assignment01.py** file in JES as follows...
 
 ### Turn-in the Assignment for Credit
 
-1. When your program is working correctly, open a web browser and navigate to our DMS 102 section in Blackboard; in the "Lab Assignments" area find **Lab 3: Palindrome**
-3. Upload your **lab03.py** file to the Lab 3 assignment
+1. When your program is working correctly, open a web browser and navigate to our DMS 102 section in Blackboard; in the "Labs and Assignments Turn-in" area find **Assignment 1: Palindrome**
+3. Upload (attach) your **assignment01.py** file and click the Submit button
