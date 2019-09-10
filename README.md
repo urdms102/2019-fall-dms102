@@ -9,13 +9,20 @@ Programming for Digital media
 
 ## Topics and Assignments
 
+### Week 3
+
+- **Lecture 4:** [Creating and Modifying Text, part 1 (PDF)](04-creating-modifying-text1/creating-modifying-text1.pdf)
+- **In-class work:** [Lab 2: Mad Libs](lab02-mad-libs/instructions.md)
+- **Assignment (for next time):** 
+  - [Assignment 1: Palindrome](assignment01-palindrome/instructions.md) Due Thursday, September 12 before the next DMS 102 class
+  - Read/try the rest of *Chapter 3: Creating and Modifying Text* (p57-73)
+
 ### Week 2
 
 - **Lecture 3:** [Introduction to Programming (PDF)](03-introduction-to-programming/introduction-programming.pdf)
 - **Lecture 2:** [Introduction to Computer Science and Media Computation, part 2 (PDF)](02-introduction-computer-science-2/introduction-computer-science2.pdf)
 
-- **In-class work**
-  - [Lab 1: Saving Programs in JES](lab01-saving-programs-jes/instructions.md)
+- **In-class work: ** [Lab 1: Saving Programs in JES](lab01-saving-programs-jes/instructions.md)
 - **Assignment (homework for next time)**
   - Read/try **Chapter 3: Creating and Modifying Text (p44-57, stop at section 3.2.3 Taking Strings Apart with Indices)**
     - Try programs (not turned-in)

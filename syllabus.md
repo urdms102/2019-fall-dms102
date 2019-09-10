@@ -41,17 +41,17 @@ For each assignment, a grading rubric is provided. Rubrics will inform students 
 
 | Activity                                                     | Weight of the final grade                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Participation**<br>There are multiple participation events at various times during the semester at the discretion of the instructor.<br>- In-class exercises are checked for completion<br>- In-class quizzes (few questions, limited time) every so often | **30%**<br> Each participation event counts equally toward the total of 30%.  There will be between 10 and 15 participation events.  Nonattendance at a classroom session during a participation event will result in a zero for that event. |
-| **Lab Assignments**<br> There is lab work to be turned-in on Blackboard usually every week at the discretion of the instructor.  Each lab counts equally toward the total of 40%.  There are between 10 and 15 lab assignments. | **40%**<br> Each lab assignment is worth 3.0 to 4.5% of the overall grade depending on how many there are |
+| **In-class Labs and Participation**<br>There are multiple participation events at various times during the semester at the discretion of the instructor.<br>- In-class exercises are checked for completion<br>- In-class quizzes (few questions, limited time) every so often | **30%**<br> Each participation event counts equally toward the total of 30%.  There will be between 10 and 15 participation events.  Nonattendance at a classroom session during a participation event will result in a zero for that event. |
+| **Assignments** (homework)<br> There is take-home work to be turned-in on Blackboard usually every week at the discretion of the instructor.  Each assignment counts equally toward the total of 40%.  There are between 10 and 15 assignments. | **40%**<br> Each assignment is worth 3.0 to 4.5% of the overall grade depending on how many there are |
 | **Exams**<br>There is a midterm and a final exam, both worth 15% of the final grade.  The final exam is not comprehensive, but given the nature of the topic, it is important to know the course material from the first half of the semester. | **30%**<br>Midterm exam: 15%<br>Final exam: 15%              |
 
-# Lab Assignments and In-class Exercises
+# Assignments and In-class Exercises
 
-**Lab Sessions:** this course uses a combined lecture/lab session.  Lab assignments will be introduced and discussed during the same classroom time as the lecture, and time will be set aside for students to work and get help.
+**Lab Sessions:** this course uses a combined lecture/lab session.  Labs will be introduced and discussed during the same classroom time as the lecture, and time will be set aside for students to work and get help.
 
-**Lab assignments** are made available via Blackboard during the lectures and can be completed in the dedicated lab time or independently on the student's own Internet-connected computer (Mac or PC).  
+**Take-home Assignments** are made available via Blackboard during the lectures and can be completed in the dedicated lab time or independently on the student's own Internet-connected computer (Mac or PC).  
 
-**Help:** to get help on any lab assignment or project, the student must be in the lecture/lab classroom.
+**Help:** to get help on any assignment or project, the student must be in the lecture/lab classroom.
 
 ## Due Dates
 
