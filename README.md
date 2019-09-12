@@ -11,9 +11,12 @@ Programming for Digital media
 
 ### Week 3
 
+- **Lecture 5:** [Creating and Modifying Text, part 2 (PDF)](05-creating-modifying-text2/creating-modifying-text2.pdf)
+  - **In-class work:** [Lab 3: Name Processor](lab03-name-processor/instructions.md)
 - **Lecture 4:** [Creating and Modifying Text, part 1 (PDF)](04-creating-modifying-text1/creating-modifying-text1.pdf)
-- **In-class work:** [Lab 2: Mad Libs](lab02-mad-libs/instructions.md)
+  - **In-class work:** [Lab 2: Mad Libs](lab02-mad-libs/instructions.md)
 - **Assignment (for next time):** 
+  - Read/try Chapter 4, part 1 (p74-86, stop before 4.3)
   - [Assignment 1: Palindrome](assignment01-palindrome/instructions.md) Due Thursday, September 12 before the next DMS 102 class
   - Read/try the rest of *Chapter 3: Creating and Modifying Text* (p57-73)
 
