@@ -20,7 +20,7 @@ We'll do this part in-class on Tuesday, September 3.
 
    - **Windows users**, so long as you don't get an error message, pretty much any version of Java will work with JES.  Proceed to Step 2 to figure out which version of JES to download.
 
-   - **Mac users**, only Java version "1.6…" will work with JES.  If you see `java version "1.6…` proceed to Step 2.  Else, if you get an error message or a message about any other version of Java, check with the professor to figure out what to do next.
+   - **Mac users**, only Java version "1.6…" will work with JES.  If you see `java version "1.6…` proceed to Step 2.  Else, if you get an error message or a message about any other version of Java, go to the Apple support page for [Download Java for OS X 2017-001](https://updates.cdn-apple.com/2018/macos/031-33898-20171026-7a797e9e-b8de-11e7-b1fe-c14fbda7e146/javaforosx.dmg) ...which will let you install a version of Java for "legacy applications" (such as JES)
 
 2. Go to GitHub and download the appropriate package to install JES on your personal laptop: https://github.com/gatech-csl/jes/releases/tag/5.020
 
