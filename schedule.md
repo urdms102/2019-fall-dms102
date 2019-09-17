@@ -1,14 +1,14 @@
 # Schedule
 This schedule is subject to modification throughout the semester. Always check with your instructor if you have any questions.
 
-| Date           | Tue and Thu Topics 2:00 PM                                   | In-class Labs                                                | Assignments and Projects (homework)                          |
+| Date           | Tue and Thu Topics 2:00 PM                                   | In-class Labs                                                | Assignments and Projects (homework for next time)            |
 | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Thu Aug 29** | Introduction to Computer Science and Media Computation, part 1 | Signup and login to DMS 102 Slack Workspace                  | Chapter 1 (p3-17)                                            |
 | **Tue Sep 3**  | Introduction to Computer Science and Media Computation, part 2 | Byte count demo<br>Install/try JES with media files          | First part of Chapter 2 (p18-33)<br>- Use JES; try out lines of code in the "Command Area" as shown in the book<br>- Part 1A of [Lab 1: Saving Programs in JES](lab01-saving-programs-jes/instructions.md) |
 | **Thu Sep 5**  | Introduction to Programming                                  | [Lab 1: Saving Programs in JES](lab01-saving-programs-jes/instructions.md) | First part of Chapter 3 (p44-57, stop at section 3.2.3 Taking Strings Apart with Indices) |
 | **Tue Sep 10** | Creating and Modifying Text, part 1                          | [Lab 2: Mad Libs](lab02-mad-libs/instructions.md)            | [Assignment 1: Palindrome](assignment01-palindrome/instructions.md)<br><br>Read/try the rest of *Chapter 3: Creating and Modifying Text* (p57-73) |
 | **Thu Sep 12** | Creating and Modifying Text, part 2                          | [Lab 3: Name Processor](lab03-name-processor/instructions.md) | Read/try Chapter 4, part 1 (p74-86, stop before 4.3)         |
-| **Tue Sep 17** | Modifying Pictures Using Loops, part 1                       |                                                              |                                                              |
+| **Tue Sep 17** | Modifying Pictures Using Loops, part 1                       | [n/a]                                                        | read/try Chapter 4, part 2 (p86-104, sections 4.3 through 4.7) |
 | **Thu Sep 19** | Modifying Pictures Using Loops, part 2                       |                                                              |                                                              |
 | **Tue Sep 24** | Modifying Pictures Using Loops, part 3                       |                                                              |                                                              |
 | **Thu Sep 26** | Picture Techniques with Selection, part 1                    |                                                              |                                                              |

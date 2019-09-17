@@ -9,6 +9,13 @@ Programming for Digital media
 
 ## Topics and Assignments
 
+### Week 4
+
+- **Lecture 6:** [Modifying Pictures using Loops, part 1 (PDF)](06-modifying-pictures-using-loops1/modifying-pictures-using-loops1.pdf)
+  - No in-class work today (Tuesday, September 17)
+- **Assignment (for next time):**
+  - For Thursday, September 19, read/try *Chapter 4, part 2 (p86-104, sections 4.3 through 4.7)*
+
 ### Week 3
 
 - **Lecture 5:** [Creating and Modifying Text, part 2 (PDF)](05-creating-modifying-text2/creating-modifying-text2.pdf)
@@ -16,7 +23,7 @@ Programming for Digital media
 - **Lecture 4:** [Creating and Modifying Text, part 1 (PDF)](04-creating-modifying-text1/creating-modifying-text1.pdf)
   - **In-class work:** [Lab 2: Mad Libs](lab02-mad-libs/instructions.md)
 - **Assignment (for next time):** 
-  - Read/try Chapter 4, part 1 (p74-86, stop before 4.3)
+  - Read/try *Chapter 4, part 1 (p74-86, stop before 4.3)*
   - [Assignment 1: Palindrome](assignment01-palindrome/instructions.md) Due Thursday, September 12 before the next DMS 102 class
   - Read/try the rest of *Chapter 3: Creating and Modifying Text* (p57-73)
 
