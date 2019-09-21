@@ -11,10 +11,13 @@ Programming for Digital media
 
 ### Week 4
 
+- **Lecture 7:** Modifying Pictures Using Loops, part 2
+  - **In-class work:** Lab 4: Red Pixels (turned-in on Blackboard)
+  - **Assignment (for next time):**  read/try the last bit of *Chapter 4, from page 104 to the end on page 110 (that's just one section: 4.8)*
+  - [Assignment 2: Image Processor](assignment02-image-processor/instructions.md) Due Thursday, September 26
 - **Lecture 6:** [Modifying Pictures using Loops, part 1 (PDF)](06-modifying-pictures-using-loops1/modifying-pictures-using-loops1.pdf)
   - No in-class work today (Tuesday, September 17)
-- **Assignment (for next time):**
-  - For Thursday, September 19, read/try *Chapter 4, part 2 (p86-104, sections 4.3 through 4.7)*
+  - **Assignment (for next time): ** read/try *Chapter 4, part 2 (p86-104, sections 4.3 through 4.7)*
 
 ### Week 3
 
