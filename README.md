@@ -9,6 +9,12 @@ Programming for Digital media
 
 ## Topics and Assignments
 
+### Week 5
+
+- **Lecture 8:** [Modifying Pictures Using Loops, part 2 (PDF)](08-modifying-pictures-using-loops2/modifying-pictures-using-loops2.pdf)
+  - No in-class work today (Tuesday, September 24)
+  - **Assignment (for next time):**  (coming soon)
+
 ### Week 4
 
 - **Lecture 7:** Modifying Pictures Using Loops, part 2
