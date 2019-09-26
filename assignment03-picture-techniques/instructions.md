@@ -1,4 +1,4 @@
-# Assignment 3: Name Processor
+# Assignment 3: Picture Techniques
 
 Due: Thursday, October 3, 2019 (one week)
 
@@ -37,6 +37,6 @@ You will also need to create a TEST case to run your program.  The requirements 
 
 ### Turn-in the Assignment for Credit
 
-1. When your program is working correctly, open a web browser and navigate to our DMS 102 section in Blackboard; in the "Lab Assignments" area find "Lab 3: Name Processor"
-3. Upload your **lab03.py** file to the Lab 3 assignment
+1. When your program is working correctly, open a web browser and navigate to our DMS 102 section in Blackboard; in the "Lab Assignments" area find "Assignment 3: Picture Techniques"
+3. Upload your **assignment03.py** file and the image files (original and altered) to Blackboard
 
