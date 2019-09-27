@@ -9,7 +9,6 @@ This assignment tests your ability to target individual pixels and change their 
 The goal is to write a program that targets one area of a digital photograph and have it change a range of colors within that area to another color
 
 - [ ] The program must be written in a single Python file named **assignment03.py**
-
 - [ ] The program must be abstract enough to work with ANY digital photograph (a "picture object"), i.e. the picture must not be hardcoded into the program
 - [ ] The program must be abstract enough to target ANY area within the digital photograph, i.e. the coordinates must not be hardcoded into the program
 - [ ] The program must be abstract enough to target ANY color within ANY range (i.e. distance) within the targeted area in the digital photograph AND the color that's targeted can be changed to ANY other color (...again, that means none of this information can be hardcoded in the program)
@@ -33,10 +32,9 @@ You will also need to create a TEST case to run your program.  The requirements 
 - [ ] Last step: "explore" the picture object
 
 *Another requirement for the TEST:*
-
 - [ ] The TEST needs to demonstrate the program in an interesting way, i.e. something that looks purposeful 
-  - [ ] Example: changing a yellow flower to blue; changing the blue sky to black
-  - [ ] Note: if the area selected on your picture looks random, for example if it bisects an object in your photo in a way that doesn't make sense, points will be deducted
+  - Example: changing a yellow flower to blue; changing the blue sky to black
+  - Note: if the area selected on your picture looks random, for example if it bisects an object in your photo in a way that doesn't make sense, points will be deducted
 
 ## Extra Credit
 
@@ -49,6 +47,6 @@ Note: for the extra credit, you must also append the TEST block to run your post
 
 ## Turn-in the Assignment for Credit
 
-1. When your program is working correctly, open a web browser and navigate to our DMS 102 section in Blackboard; in the "Labs and Assignments Turn-in" area find **Assignment 3: Picture Techniques**
-3. Upload your **assignment03.py** file and the image files (original and altered) to Blackboard
+- When your program is working correctly, open a web browser and navigate to our DMS 102 section in Blackboard; in the "Labs and Assignments Turn-in" area find **Assignment 3: Picture Techniques**
+- Upload your **assignment03.py** file and the image files (original and altered) to Blackboard
 

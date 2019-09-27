@@ -14,6 +14,7 @@ Programming for Digital media
 - **Lecture 9:** [Assignment 3 Picture Techniques](assignment03-picture-techniques/instructions.md)
   - In-class lab: description and start of Assignment 3
   - **Assignment (for next time):** read/try Chapter 5, pages 126 (section 5.2) to the end
+
 - **Lecture 8:** [Modifying Pictures Using Loops, part 2 (PDF)](08-modifying-pictures-using-loops2/modifying-pictures-using-loops2.pdf)
   - No in-class work today
 
@@ -45,10 +46,10 @@ Programming for Digital media
 
 - **In-class work: ** [Lab 1: Saving Programs in JES](lab01-saving-programs-jes/instructions.md)
 - **Assignment (homework for next time)**
-  - Read/try **Chapter 3: Creating and Modifying Text (p44-57, stop at section 3.2.3 Taking Strings Apart with Indices)**
+  - Read/try Chapter 3, pages 44-57, stop at section 3.2.3 Taking Strings Apart with Indices
     - Try programs (not turned-in)
     - Note: next labs will have you do complex variations of the demo programs in the book
-  - Read/try the rest of **Chapter 2: Introduction to Programming (p33-39)**
+  - Read/try the rest of Chapter 2, pages 33-39
 
 ### Week 1
 
