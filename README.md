@@ -11,9 +11,11 @@ Programming for Digital media
 
 ### Week 5
 
+- **Lecture 9:** [Assignment 3 Picture Techniques](assignment03-picture-techniques/instructions.md)
+  - In-class lab: description and start of Assignment 3
+  - **Assignment (for next time):** read/try Chapter 5, pages 126 (section 5.2) to the end
 - **Lecture 8:** [Modifying Pictures Using Loops, part 2 (PDF)](08-modifying-pictures-using-loops2/modifying-pictures-using-loops2.pdf)
-  - No in-class work today (Tuesday, September 24)
-  - **Assignment (for next time):**  (coming soon)
+  - No in-class work today
 
 ### Week 4
 
@@ -23,7 +25,7 @@ Programming for Digital media
   - [Assignment 2: Image Processor](assignment02-image-processor/instructions.md) Due Thursday, September 26
 - **Lecture 6:** [Modifying Pictures using Loops, part 1 (PDF)](06-modifying-pictures-using-loops1/modifying-pictures-using-loops1.pdf)
   - No in-class work today (Tuesday, September 17)
-  - **Assignment (for next time): ** read/try *Chapter 4, part 2 (p86-104, sections 4.3 through 4.7)*
+  - **Assignment (for next time):** read/try *Chapter 4, part 2 (p86-104, sections 4.3 through 4.7)*
 
 ### Week 3
 
