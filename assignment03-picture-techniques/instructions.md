@@ -20,7 +20,7 @@ Hint: the requirements above mean you'll need to use A LOT of parameters in the 
 - Four coordinates to deliniate a rectangle on the picture (hint: four separate parameters)
 - A color object (can be a keyword or a variable created using `makeColor()`)
 - A color distance (a single integer between 0 and 441)
-- Another color object (can be a keyword or a variable created using `makeColor()` to create the "end Color"
+- Another color object (can be a keyword or a variable created using `makeColor()` to create the "end Color")
 
 You will also need to create a TEST case to run your program.  The requirements for the TEST:
 
