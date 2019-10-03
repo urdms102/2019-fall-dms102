@@ -9,6 +9,12 @@ Programming for Digital media
 
 ## Topics and Assignments
 
+### Week 6
+
+- Lecture 11: More Picture Techniques
+  - [Edge Detection (PDF)](11-picture-techniques/edge-detection.pdf)
+  - [Assignment 4 Pencil Art from Photo](assignment04-pencil-art-from-photo/instructions.md)
+
 ### Week 5
 
 - **Lecture 9:** [Assignment 3 Picture Techniques](assignment03-picture-techniques/instructions.md)
