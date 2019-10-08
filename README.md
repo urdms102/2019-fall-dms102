@@ -9,6 +9,11 @@ Programming for Digital media
 
 ## Topics and Assignments
 
+### Week 7
+
+- Project 1 Planning
+- Introduction to Sound
+
 ### Week 6
 
 - Lecture 11: More Picture Techniques
