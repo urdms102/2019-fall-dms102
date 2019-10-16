@@ -18,8 +18,8 @@ This schedule is subject to modification throughout the semester. Always check w
 | **Thu Oct 10** | TBD                                                          |                                                              |                                                              |
 | **Tue Oct 15** | HOLIDAY: Fall Break                                          |                                                              |                                                              |
 | **Thu Oct 17** | Project 1 Studio Work                                        | Rettner Hall Video Studio Chromakey Session                  |                                                              |
-| **Tue Oct 22** | MIDTERM EXAM (planned move)                                  |                                                              |                                                              |
-| **Thu Oct 24** | TBD                                                          |                                                              |                                                              |
+| **Tue Oct 22** | Review session (prep for midterm exam)                       |                                                              |                                                              |
+| **Thu Oct 24** | MIDTERM EXAM                                                 |                                                              |                                                              |
 | **Tue Oct 29** | Modifying Sounds Using Loops, part 1                         |                                                              |                                                              |
 | **Thu Oct 31** | Modifying Sounds Using Loops, part 2                         |                                                              |                                                              |
 | **Tue Nov 5**  | Modifying Sounds Using Loops, part 3                         |                                                              |                                                              |
