@@ -9,6 +9,10 @@ Programming for Digital media
 
 ## Topics and Assignments
 
+### Week 8
+
+- Project 1 Studio Work - chromakey photography
+
 ### Week 7
 
 - Project 1 Planning
