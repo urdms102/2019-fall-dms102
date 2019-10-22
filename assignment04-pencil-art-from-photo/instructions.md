@@ -17,3 +17,4 @@ This assignment tests your ability to create a pencil, or line drawing from a fu
   - The test block should be in the style that we've used in previous labs and assignments
   - Test test should show (explore()) the before and after pictures as well as write a new picture file to the file system
 - [ ] Submit all the files: **assignment04.py** and the before and after pictures in the assignment in Blackboard titled: **Assignment 4: Pencil Art from Photo**
+
