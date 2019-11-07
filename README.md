@@ -9,6 +9,16 @@ Programming for Digital media
 
 ## Topics and Assignments
 
+### Week 11
+
+- [In-class Lab 5: Sound Modification](lab05-sound-modification/instructions.md)
+
+- [Modifying Sounds, part 1](19-modifying-sound1/modifying-sounds1.pdf)
+
+### Week 10
+
+- [Introduction to the Physics of Sound (PDF)](18-introduction-sound/introduction-sound.pdf)
+
 ### Week 9
 
 - Midterm Prep
