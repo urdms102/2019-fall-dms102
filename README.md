@@ -11,6 +11,8 @@ Programming for Digital media
 
 ### Week 11
 
+- **[Project 1: Chromakey](project1-chromakey/instructions.md)** (due: Tuesday, November 19, 2019)
+
 - [In-class Lab 5: Sound Modification](lab05-sound-modification/instructions.md)
 
 - [Modifying Sounds, part 1](19-modifying-sound1/modifying-sounds1.pdf)
