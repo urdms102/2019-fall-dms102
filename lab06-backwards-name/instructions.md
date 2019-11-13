@@ -1,6 +1,6 @@
 # In-Class Lab 6: Backwards Name
 
-*Due: Thursday, November 12, 2019 (today)*
+*Due: Tuesday, November 12, 2019 (today)*
 
 The point of this lab is to practice juggling multiple, relatively abstracted functions in a program to accomplish a goal.  
 
