@@ -24,8 +24,8 @@ This schedule is subject to modification throughout the semester. Always check w
 | **Thu Oct 31** | Introduction to the Physics of Sound                         |                                                              |                                                              |
 | **Tue Nov 5**  | Modifying Sounds Using Loops, part 1                         |                                                              |                                                              |
 | **Thu Nov 7**  | Sound Modification                                           | In-class work on Lab 5                                       |                                                              |
-| **Tue Nov 12** | Making Sounds by Combining Pieces, part 1                    |                                                              |                                                              |
-| **Thu Nov 14** | Making Sounds by Combining Pieces, part 2                    |                                                              |                                                              |
+| **Tue Nov 12** | Modifying Samples in a Range                                 | in-class work on Lab 6                                       |                                                              |
+| **Thu Nov 14** | Making Sounds by Combining Pieces                            |                                                              |                                                              |
 | **Tue Nov 19** | Using Text to Shift Between Media                            |                                                              |                                                              |
 | **Thu Nov 21** | Creating and Modifying Movies                                |                                                              |                                                              |
 | **Tue Nov 26** | Object-Oriented Programming                                  |                                                              |                                                              |

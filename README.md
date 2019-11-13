@@ -9,6 +9,12 @@ Programming for Digital media
 
 ## Topics and Assignments
 
+### Week 12
+
+- [Modifying Samples in a Range (PDF)](21-modifying-samples-in-a-range/modifying-samples-in-a-range.pdf)
+
+- [In-class Lab 6: Backwards Name](lab06-backwards-name/instructions.md)
+
 ### Week 11
 
 - **[Project 1: Chromakey](project1-chromakey/instructions.md)** (due: Tuesday, November 19, 2019)
