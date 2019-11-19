@@ -12,10 +12,10 @@ Programming for Digital media
 ### Week 13
 
 - Tuesday, November 19, 2019
-  - **Lecture 23:**
-  - **In-class work:** 
+  - **Lecture 23:** [Making Sounds by Combining Pieces, part 2 (PDF)](23-modifying-sounds-by-combining-pieces2/making-sounds-by-combining-pieces2.pdf)
+  - **In-class work:** [Lab 7: Chorus](lab07-chorus/instructions.md)
     - Quiz 11: Making Sounds by Combining Pieces, part 2
-  - **Assignment:**
+  - **Assignment:** (coming soon)
 
 ### Week 12
 
