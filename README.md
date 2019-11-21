@@ -11,6 +11,10 @@ Programming for Digital media
 
 ### Week 13
 
+- Thursday, November 21, 2019
+  - [Using Text to Shift Between Media (PDF)](24-using-text-to-shift-between-media/using-text-to-shift-between-media.pdf)
+  - [In-class demo code (ZIP)](24-using-text-to-shift-between-media/inclass.zip)
+
 - Tuesday, November 19, 2019
   - **Lecture 23:** [Making Sounds by Combining Pieces, part 2 (PDF)](23-modifying-sounds-by-combining-pieces2/making-sounds-by-combining-pieces2.pdf)
   - **In-class work:** [Lab 7: Chorus](lab07-chorus/instructions.md)
