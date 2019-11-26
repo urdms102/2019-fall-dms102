@@ -9,10 +9,15 @@ Programming for Digital media
 
 ## Topics and Assignments
 
+### Week 14
+
+- Tuesday, November 26, 2019
+  - **Lecture 25:** [In-class lab 8 - hidden message](lab08-hidden-message/instructions.md)
+
 ### Week 13
 
 - Thursday, November 21, 2019
-  - [Using Text to Shift Between Media (PDF)](24-using-text-to-shift-between-media/using-text-to-shift-between-media.pdf)
+  - **Lecture 24:** [Using Text to Shift Between Media, part 1 (PDF)](24-using-text-to-shift-between-media/using-text-to-shift-between-media.pdf)
   - [In-class demo code (ZIP)](24-using-text-to-shift-between-media/inclass.zip)
 
 - Tuesday, November 19, 2019
