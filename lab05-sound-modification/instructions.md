@@ -37,5 +37,5 @@ Follow the steps below, writing and saving the code for each step in a new Pytho
 
 1. When your program is working correctly, ZIP (compress) your program file and the WAV file you used
 2. Go into our DMS 102 section in Blackboard; in the "Lab Assignments" area find "Lab 5: Sound Modification"
-3. Upload your ZIP file to the Lab 4 assignment
+3. Upload your ZIP file to the Lab 5 assignment
 
