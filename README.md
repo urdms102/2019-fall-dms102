@@ -12,19 +12,20 @@ Programming for Digital media
 ### Week 14
 
 - Tuesday, November 26, 2019
-  - **Lecture 25:** [In-class lab 8 - hidden message](lab08-hidden-message/instructions.md)
+  - **Lecture 25:** [Stenography (PDF)](25-stenography/steganography.pdf)
+  - **In-classwork:** [In-class lab 8 - hidden message](lab08-hidden-message/instructions.md)
 
 ### Week 13
 
 - Thursday, November 21, 2019
-  - **Lecture 24:** [Using Text to Shift Between Media, part 1 (PDF)](24-using-text-to-shift-between-media/using-text-to-shift-between-media.pdf)
-  - [In-class demo code (ZIP)](24-using-text-to-shift-between-media/inclass.zip)
+  - **Lecture 24:** [Using Text to Shift Between Media (PDF)](24-using-text-to-shift-between-media/using-text-to-shift-between-media.pdf)
+  - **In-class work:** [Demo code (ZIP)](24-using-text-to-shift-between-media/inclass.zip)
 
 - Tuesday, November 19, 2019
   - **Lecture 23:** [Making Sounds by Combining Pieces, part 2 (PDF)](23-modifying-sounds-by-combining-pieces2/making-sounds-by-combining-pieces2.pdf)
-  - **In-class work:** [Lab 7: Chorus](lab07-chorus/instructions.md)
+  - **In-class work:** 
     - Quiz 11: Making Sounds by Combining Pieces, part 2
-  - **Assignment:** (coming soon)
+    - [Lab 7: Chorus](lab07-chorus/instructions.md)
 
 ### Week 12
 
@@ -52,8 +53,7 @@ Programming for Digital media
 
 - Thursday, October 31, 2019
   - **Lecture 18:** [Introduction to the Physics of Sound (PDF)](18-introduction-sound/introduction-sound.pdf)
-  - **In-class work:** 
-    - Quiz 8: Modifying Sounds Using Loops, part 1
+  - **In-class work:** Quiz 8: Modifying Sounds Using Loops, part 1
   - **Assignment:** read/try everything in Chapter 7, section 7.2, 7.3, and 7.4. That's pages 215 through the end of Chapter 7, page 230
 
 ### Week 9
@@ -62,8 +62,7 @@ Programming for Digital media
   - **In-class work:** Midterm Exam
   - **Assignment:** read/try Chapter 7, section 7.1 "How Sound is Encoded"(p203-215)
 - Tuesday, October 22, 2019
-  - **Lecture 15:** Review Session
-  - **In-class work:** Midterm Prep
+  - **Lecture 15:** Review Session - Midterm Prep
 
 ### Week 8
 
