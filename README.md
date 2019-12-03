@@ -9,6 +9,14 @@ Programming for Digital media
 
 ## Topics and Assignments
 
+### Week 15
+
+- Tuesday, December 3, 2019
+  - **Lecture 26:** 
+    - [Intro to Object Oriented Programming (PDF)](26-object-oriented-programming1/object-oriented-programming.pdf)
+    - [The Xerox Thieves- Steve Jobs & Bill Gates (YouTube)](https://www.youtube.com/watch?v=pQocN_c2uLI)
+    - [Xerox Star User Interface (1982) (YouTube)](https://www.youtube.com/watch?v=Cn4vC80Pv6Q)
+
 ### Week 14
 
 - Tuesday, November 26, 2019
@@ -34,7 +42,7 @@ Programming for Digital media
   - **In-class work:** Quiz 10: Making Sounds by Combining Pieces, part 1
   - **Assignment:** read/try the rest of Chapter 9: sections 9.4, 9.5, and 9.6 (pages 261-274)
 - Tuesday, November 12, 2019
-  - **Lecture 21:**[Modifying Samples in a Range (PDF)](21-modifying-samples-in-a-range/modifying-samples-in-a-range.pdf)
+  - **Lecture 21:** [Modifying Samples in a Range (PDF)](21-modifying-samples-in-a-range/modifying-samples-in-a-range.pdf)
   - **In-class work:** [In-class Lab 6: Backwards Name](lab06-backwards-name/instructions.md) (follow-along demo)
   - **Assignment:** read/try the first few pages of Chapter 9: sections 9.1, 9.2, and 9.3 (pages 255-the top of 261)
 
