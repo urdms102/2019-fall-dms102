@@ -12,12 +12,12 @@ This course introduces core concepts and techniques of computer programming to p
 ## Instructor Information 
 - Instructor: **Professor Kostin**
 - E-mail: **<robert.kostin@rochester.edu>**
-- Office: **Morey Hall, Room 313**
+- Office: <s>Morey Hall, Room 313</s> Wegmans Hall, room 2105
 
 ### Office Hours
 
 - **Virtual Office Hours:** for technical help, the professor will be online, answering questions via [Slack](https://dms-102.slack.com/), in the **#help** channel.  Students can leave questions at any time.  The professor and other students will answer as quickly as possible
-- **Regular Office Hours:** for *non-technical help*, the professor will be in his office in Morey 313, Tuesdays and Wednesdays between 9:30 and 10:30 AM.
+- **Regular Office Hours:** for *non-technical help*, the professor will be in his office in <s>Morey 313</s> Wegmans Hall, room 2105, Tuesdays and Wednesdays between 9:30 and 10:30 AM.
 
 ## Grading
 For each assignment, a grading rubric is provided. Rubrics will inform students how assignments are evaluated. 
