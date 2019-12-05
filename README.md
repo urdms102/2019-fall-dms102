@@ -11,6 +11,11 @@ Programming for Digital media
 
 ### Week 15
 
+- Thursday, December 5, 2019
+  - **In-class work:** Quiz 12: Object Oriented Programming
+  - **In-classwork:** [In-class lab 9 - Turtles](lab09-turtles/instructions.md)
+  - NOTE: Final Exam Prep Notes will be distributed via Slack
+
 - Tuesday, December 3, 2019
   - **Lecture 26:** 
     - [Intro to Object Oriented Programming (PDF)](26-object-oriented-programming1/object-oriented-programming.pdf)
